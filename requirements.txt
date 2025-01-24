@@ -1,4 +1,9 @@
-numpy==1.19.5
-pandas==1.2.0
-plotly==4.14.3
-scipy==1.6.0
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+xgboost
+requests
